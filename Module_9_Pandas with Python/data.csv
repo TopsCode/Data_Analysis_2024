@@ -1,0 +1,13 @@
+ID,First Name,Last Name,Age,Gender,Department,Salary,Date of Joining
+1,John,Doe,25,M,Sales,50000,1/1/2020
+2,Jane,Smith,30,F,Marketing,60000,6/1/2018
+3,Bob,Johnson,45,M,HR,70000,9/1/2016
+4,Alice,Williams,33,F,IT,80000,2/1/2017
+5,James,Brown,27,M,Sales,55000,3/1/2019
+6,Sarah,Lee,NaN,F,Marketing,65000,12/1/2018
+7,Michael,Davis,39,M,HR,NaN,8/1/2015
+8,Susan,Miller,42,F,IT,90000,11/1/2014
+9,David,Wilson,28,M,Sales,60000,5/1/2020
+10,Emily,Brown,35,F,Marketing,55000,4/1/2017
+11,John,Doe,25,M,Sales,50000,1/1/2020
+12,John,Doe,25,M,Sales,50000,1/1/2020
