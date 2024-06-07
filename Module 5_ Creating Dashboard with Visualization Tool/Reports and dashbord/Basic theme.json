@@ -1,0 +1,14 @@
+{
+  "background": "#808080",
+  "dataColors": [
+    "#d2691e",
+    "#dc143c",
+    "#ff7f50",
+    "#00ffff",
+    "#7fff00",
+    "#fff8dc"
+  ],
+  "foreground": "#ffffff",
+  "name": "Samcolours",
+  "tableAccent": "#ffff00"
+}
