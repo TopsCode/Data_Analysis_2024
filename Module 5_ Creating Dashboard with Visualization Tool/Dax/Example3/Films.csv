@@ -1,0 +1,1001 @@
+FilmID,Title,ReleaseDate,DirectorID,GenreID,RunTimeMinutes,OscarWins
+1,Jurassic Park,11/06/1993,4,8,126,3
+2,Spider-Man,03/05/2002,11,4,121,0
+3,King Kong,14/12/2005,12,8,187,3
+5,Superman Returns,14/07/2006,14,4,154,0
+6,Titanic,23/01/1998,15,6,194,11
+7,Evan Almighty,22/06/2007,16,7,96,0
+8,Waterworld,28/07/1995,17,8,135,0
+9,Pearl Harbor,21/05/2001,18,5,183,1
+10,Transformers,03/07/2007,18,3,144,0
+11,Harry Potter and the Order of the Phoenix,11/07/2007,19,12,138,0
+12,Beowulf,16/11/2007,20,12,115,0
+13,Bee Movie,02/11/2007,21,11,91,0
+14,Pirates of the Caribbean: At World's End,25/05/2007,22,8,168,0
+15,I Am Legend,14/12/2007,23,10,100,0
+16,Ratatouille,22/06/2007,24,11,111,1
+17,Troy,14/05/2004,25,8,162,0
+18,Harry Potter and the Goblet of Fire,06/11/2005,26,12,156,0
+19,Batman Begins,15/06/2005,27,4,141,0
+20,Charlie and the Chocolate Factory,15/07/2005,28,12,115,0
+21,Pirates of the Caribbean: Dead Man's Chest,06/07/2006,22,8,151,1
+22,Die Another Day,20/11/2002,29,9,133,0
+23,Lethal Weapon 4,10/07/1998,30,4,127,0
+24,Armageddon,01/07/1998,18,3,151,0
+25,Men in Black II,03/07/2002,31,3,89,0
+26,Spider-Man 3,04/05/2007,11,4,139,0
+27,Spider-Man 2,30/06/2004,11,4,127,1
+28,Stealth,05/08/2005,32,4,121,0
+29,Final Fantasy: The Spirits Within,03/08/2001,33,11,106,0
+30,Miami Vice,28/07/2006,34,9,134,0
+31,The World Is Not Enough,26/11/1999,35,9,128,0
+32,Master and Commander: The Far Side of the World,14/11/2003,36,8,138,2
+33,War of the Worlds,29/06/2005,4,3,116,0
+34,The Bourne Ultimatum,17/08/2007,37,9,115,3
+35,Harry Potter and the Prisoner of Azkaban,31/05/2004,38,12,141,0
+36,The Matrix Reloaded,15/05/2003,39,3,138,0
+37,The Da Vinci Code,19/05/2006,40,18,146,0
+38,Harry Potter and the Philosopher's Stone,16/11/2001,41,12,152,0
+39,The Day After Tomorrow,26/05/2004,42,9,124,0
+40,Pirates of the Caribbean: Curse of the Black Pearl,09/07/2003,22,8,135,0
+41,The Last Samurai,05/12/2003,43,8,154,0
+42,The Perfect Storm,30/06/2000,25,8,130,0
+43,Mission: Impossible III,04/05/2006,44,9,125,0
+44,Mission: Impossible II,24/05/2000,45,9,123,0
+45,Windtalkers,30/08/2002,45,5,134,0
+46,Star Wars: Episode II - Attack of the Clones,16/05/2002,7,3,142,0
+47,"Monsters, Inc.",08/02/2002,46,11,92,1
+48,Star Wars: Episode I - The Phantom Menace,19/05/1999,7,3,133,0
+49,Star Wars: Episode III - Revenge of the Sith,19/05/2005,7,3,140,0
+50,The Matrix Revolutions,05/11/2003,39,3,129,0
+51,Tomorrow Never Dies,12/12/1997,47,9,119,0
+52,Ocean's Eleven,15/02/2002,48,14,117,0
+53,Live Free or Die Hard,27/06/2007,49,4,130,0
+54,Around the World in 80 Days,16/06/2004,50,8,120,0
+55,Kingdom of Heaven,06/05/2005,51,8,144,0
+56,Mr. & Mrs. Smith,10/06/2005,52,4,120,0
+57,The Aviator,25/12/2004,9,19,170,5
+58,Ali,25/12/2001,34,19,157,0
+59,The Lord of the Rings: Fellowship of the Ring,19/12/2001,12,12,178,4
+60,"I, Robot",15/07/2004,53,3,115,0
+61,Casino Royale,14/11/2006,54,9,144,0
+62,Minority Report,04/07/2002,4,3,145,0
+63,Terminator 2: Judgement Day,16/08/1991,15,3,136,6
+64,Catwoman,13/08/2004,55,4,104,0
+65,Harry Potter and the Chamber of Secrets,15/11/2002,41,12,155,0
+66,American Gangster,16/11/2007,51,19,158,0
+67,Blood Diamond,08/12/2006,43,8,143,0
+68,Gladiator,05/05/2000,51,8,155,5
+69,True Lies,15/07/1994,15,9,141,0
+70,Gangs of New York,20/12/2002,9,2,160,0
+71,Black Hawk Down,18/01/2002,51,5,144,2
+72,The Fifth Element,07/05/1997,56,3,127,0
+73,The Lord of the Rings: Return of the King,17/12/2003,12,12,201,11
+74,The Lord of the Rings: The Two Towers,18/12/2002,12,12,179,2
+75,Rush Hour 3,10/08/2007,57,17,91,0
+76,Rush Hour 2,03/08/2001,57,17,90,0
+77,Men in Black,02/07/1997,31,3,98,1
+78,The Departed,06/10/2006,9,9,151,4
+79,Die Hard: With A Vengeance,18/08/1995,58,4,131,0
+80,Cinderella Man,09/09/2005,40,2,144,0
+81,The Bourne Supremacy,23/07/2004,37,9,108,0
+82,Last Action Hero,30/07/1993,58,4,130,0
+83,Cast Away,12/01/2001,20,2,143,0
+84,Ocean's Twelve,04/02/2005,48,14,125,0
+85,Click,29/09/2006,50,7,107,0
+86,Bruce Almighty,23/05/2003,16,7,101,0
+87,Mission: Impossible,22/05/1996,59,9,110,0
+88,Deep Impact,08/05/1998,60,3,121,0
+89,Road to Perdition,12/07/2002,61,14,117,1
+90,A Beautiful Mind,21/12/2001,40,2,135,4
+91,Children of Men,22/09/2006,38,3,109,0
+92,Munich,23/12/2005,4,2,163,0
+93,Independence Day,02/07/1996,42,3,145,1
+94,X-Men,18/08/2000,14,4,104,0
+95,X2,02/05/2003,14,4,134,0
+96,The Rock,07/06/1996,18,9,136,0
+97,Constantine,18/02/2005,23,9,121,0
+98,Unbreakable,29/12/2000,62,2,106,0
+99,Talladega Nights: The Ballad of Ricky Bobby,15/09/2006,63,7,108,0
+100,The Simpsons Movie,25/07/2007,64,11,87,0
+101,Braveheart,24/05/1995,65,13,177,5
+102,Jarhead,13/01/2006,61,5,125,0
+103,The Village,20/08/2004,62,9,108,0
+104,Shrek the Third,18/05/2007,66,11,93,0
+105,Shrek 2,19/05/2004,67,11,93,0
+106,The Abyss,09/08/1989,15,3,140,1
+107,Star Trek: Insurrection,11/12/1998,68,3,103,0
+108,Who Framed Roger Rabbit?,22/06/1988,20,7,103,4
+109,Sleepy Hollow,19/11/1999,28,10,105,1
+110,xXx,09/08/2002,32,4,124,0
+111,Die Hard 2,04/07/1990,69,4,124,0
+112,The Long Kiss Goodnight,29/11/1996,69,4,120,0
+113,Apollo 13,30/06/1995,40,13,140,2
+114,Saving Private Ryan,24/07/1998,4,5,170,5
+115,Fight Club,15/10/1999,70,9,139,0
+116,The Matrix,11/06/1999,39,3,136,4
+117,Total Recall,01/06/1990,72,3,113,1
+118,Cliffhanger,25/06/1993,69,4,113,0
+119,Clear and Present Danger,03/08/1994,73,9,141,0
+120,GoldenEye,24/11/1995,54,9,130,0
+121,The Black Dahlia,15/09/2006,59,14,122,0
+122,The Truman Show,05/06/1998,36,2,103,0
+123,Event Horizon,15/08/1997,74,3,96,0
+124,The Bourne Identity,14/06/2002,52,9,118,0
+125,Hellboy,02/04/2004,71,4,122,0
+126,Starsky & Hutch,19/03/2004,75,7,101,0
+127,Intolerable Cruelty,10/10/2003,5,7,100,0
+128,300,23/03/2007,76,8,117,0
+129,Star Trek: Nemesis,03/01/2003,77,3,116,0
+130,Superman,10/12/1978,30,8,143,0
+131,Crimson Tide,12/05/1995,78,9,116,0
+132,Deja Vu,22/11/2006,78,9,126,0
+133,Man On Fire,21/04/2004,78,9,146,0
+134,Enemy of the State,26/12/1998,78,9,132,0
+135,Kill Bill: Vol. 1,17/10/2003,79,17,111,0
+136,Alien 3,22/05/1992,70,3,115,0
+137,Shanghai Noon,26/05/2000,80,17,110,0
+138,Kill Bill: Vol. 2,23/04/2004,79,17,136,0
+139,Blade II,22/03/2002,71,4,116,0
+140,Flags of our Fathers,20/10/2006,10,5,132,0
+141,Casino,23/02/1996,9,14,178,0
+142,Robin Hood: Prince of Thieves,14/06/1991,17,8,155,0
+143,Shrek,18/05/2001,67,11,90,1
+144,Shanghai Knights,07/02/2003,81,17,114,0
+145,Indiana Jones and the Last Crusade,24/05/1989,4,8,127,1
+146,Star Trek: First Contact,22/11/1996,68,3,111,0
+147,Blade,21/08/1998,82,12,120,0
+148,Patriot Games,05/06/1992,73,9,117,0
+149,The Fugitive,06/08/1993,83,9,130,1
+150,The Prestige,20/10/2006,27,18,130,0
+151,The Last of the Mohicans,25/09/1992,34,8,112,1
+152,Apocalypto,08/12/2006,65,8,138,0
+153,Wedding Crashers,15/07/2005,81,7,119,0
+154,Back to the Future Part III,25/05/1990,20,3,118,0
+155,Back to the Future Part II,22/11/1989,20,3,108,0
+156,Licence to Kill,13/06/1989,84,9,133,0
+157,The Living Daylights,27/06/1987,84,9,131,0
+158,Sin City,01/04/2005,85,14,124,0
+159,Serenity,07/10/2005,86,3,119,0
+160,Star Trek: Generations,18/11/1994,87,3,118,0
+161,Never Say Never Again,07/10/1983,88,9,134,0
+162,Star Trek: The Motion Picture,07/12/1979,89,3,132,0
+163,Rush Hour,04/12/1998,57,4,97,0
+164,Lethal Weapon 3,14/08/1992,30,4,118,0
+165,Star Wars: Episode VI - Return of the Jedi,25/05/1983,90,3,132,0
+166,A History of Violence,23/09/2005,91,2,96,0
+167,Moonraker,29/06/1979,92,9,126,0
+168,Get Shorty,20/10/1995,31,14,105,0
+169,The Assassination of Jesse James by the Coward Robert Ford,21/09/2007,93,1,159,0
+170,Million Dollar Baby,14/01/2005,10,22,132,4
+171,Seven,22/09/1995,70,9,127,0
+172,The Hunt For Red October,02/03/1990,58,9,134,1
+173,Ghostbusters,07/06/1984,94,7,107,0
+174,Star Trek V: The Final Frontier,09/06/1989,95,3,106,0
+175,Indiana Jones and the Temple of Doom,23/05/1984,4,8,118,1
+176,Blade Runner,25/06/1982,51,3,116,0
+177,Die Hard,15/07/1988,58,4,132,0
+178,For Your Eyes Only,24/06/1981,84,9,127,0
+179,Octopussy,06/06/1983,84,9,131,0
+180,Star Trek VI: The Undiscovered Country,06/12/1991,96,3,113,0
+181,The Running Man,13/11/1987,97,3,101,0
+182,Open Range,15/08/2003,98,1,139,0
+183,Kindergarten Cop,01/02/1991,94,7,111,0
+184,"O Brother, Where Art Thou?",15/09/2000,5,7,107,0
+185,Goodfellas,19/09/1990,9,14,146,1
+186,The Passion of the Christ,26/03/2004,65,2,126,0
+187,The Untouchables,03/06/1987,59,14,119,1
+188,Schindler's List,15/12/1993,4,13,197,7
+189,Anchorman: The Legend of Ron Burgundy,10/09/2004,63,7,95,0
+190,Scarface,09/12/1983,59,14,170,0
+191,Star Trek IV: The Voyage Home,26/11/1986,99,3,122,0
+192,King Kong,17/12/1976,100,8,134,0
+193,Star Wars: Episode V - The Empire Strikes Back,21/05/1980,88,3,124,2
+194,Gandhi,02/12/1982,101,19,188,8
+195,Equilibrium,06/12/2002,102,3,107,0
+196,From Dusk Till Dawn,19/01/1996,103,10,108,0
+197,Raiders of the Lost Ark,12/06/1981,4,8,115,5
+199,Back to the Future,03/07/1985,20,3,116,1
+200,Dances with Wolves,19/10/1990,98,1,180,7
+201,Star Trek III: The Search For Spock,01/06/1984,99,3,105,0
+202,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,02/11/2006,104,7,84,0
+203,Raging Bull,14/11/1980,9,22,129,2
+204,Aliens,18/07/1986,15,3,137,2
+205,Hero,24/10/2002,105,17,99,0
+206,Hot Fuzz,14/02/2007,106,7,121,0
+207,Leon,14/09/1994,56,9,110,0
+208,High Plains Drifter,22/08/1973,10,1,105,0
+209,Collateral,06/08/2004,34,9,120,0
+210,American Beauty,08/09/1999,61,2,122,5
+211,Lethal Weapon,06/03/1987,30,4,110,0
+212,Lethal Weapon 2,07/07/1989,30,4,114,0
+213,"Crouching Tiger, Hidden Dragon",06/07/2000,8,17,120,4
+214,Brokeback Mountain,09/12/2005,8,2,134,3
+215,Hulk,20/06/2003,8,4,138,0
+216,Sense and Sensibility,13/12/1995,8,6,136,1
+217,Ride with the Devil,26/11/1999,8,1,138,0
+218,Twins,09/12/1988,94,7,105,0
+219,28 Days Later,01/11/2002,108,10,113,0
+220,The Beach,11/02/2000,108,2,115,0
+221,Trainspotting,23/02/1996,108,2,93,0
+222,The Spy Who Loved Me,07/07/1977,92,9,125,0
+223,Downfall,16/09/2004,109,5,155,0
+224,Letters from Iwo Jima,09/12/2006,10,5,141,1
+225,Star Trek II: The Wrath of Khan,04/06/1982,96,3,113,0
+226,House of Flying Daggers,19/05/2004,105,17,119,0
+227,Das Boot,17/09/1981,25,5,149,0
+228,Casino Royale,28/04/1967,124,9,131,0
+229,Star Wars: Episode IV: A New Hope,25/05/1977,7,3,121,7
+230,E.T.: The Extra-Terrestrial,11/06/1982,4,3,115,4
+231,Amelie,25/04/2001,111,7,123,0
+232,You Only Live Twice,12/06/1967,92,9,117,0
+233,Thunderball,09/12/1965,112,9,130,1
+234,Alien,25/05/1979,51,3,117,1
+236,On Her Majesty's Secret Service,18/12/1969,113,9,140,0
+237,Pulp Fiction,14/10/1994,79,14,154,1
+238,Rumble in the Bronx,21/01/1995,114,17,106,0
+239,Diamonds are Forever,14/12/1971,115,9,120,0
+240,Fargo,08/03/1996,5,14,98,2
+241,Live and Let Die,27/06/1973,115,9,121,0
+242,The Man with the Golden Gun,19/12/1974,115,9,125,0
+243,"Good Night, and Good Luck",07/10/2005,116,2,93,0
+244,Pale Rider,26/06/1985,10,1,116,0
+245,The Terminator,26/10/1984,15,3,108,0
+246,Around the World in 80 Days,17/10/1956,117,8,183,5
+249,The Usual Suspects,25/08/1995,14,14,106,2
+250,Memento,05/09/2000,27,9,113,0
+251,Shaun of the Dead,09/04/2004,106,7,99,0
+252,Four Weddings and a Funeral,13/05/1994,26,6,117,0
+253,Night Watch,08/07/2004,119,12,114,0
+254,Goldfinger,17/09/1964,115,9,110,1
+255,The Lives of Others,23/03/2006,120,2,137,1
+256,From Russia with Love,10/10/1963,112,9,115,0
+257,Reservoir Dogs,23/10/1992,79,14,99,0
+258,Dr. No,05/10/1962,112,9,109,0
+259,King Kong,07/04/1933,121,8,100,0
+260,Seven Samurai,26/04/1954,122,4,207,0
+261,Super Size Me,10/09/2004,123,24,98,0
+262,Kagemusha,26/04/1980,122,2,180,0
+263,Ran,31/05/1985,122,2,162,1
+264,Sunshine,06/04/2007,108,3,107,0
+265,Once Were Warriors,14/04/1995,29,2,102,0
+266,Flushed Away,03/11/2006,125,11,85,0
+267,Indiana Jones and the Kingdom of the Crystal Skull,22/05/2008,4,8,122,0
+270,Transformers: Age of Extinction,27/06/2014,18,3,165,0
+271,The Hobbit: The Battle of the Five Armies,01/12/2014,12,12,174,0
+272,Guardians of the Galaxy,01/08/2014,128,3,122,0
+273,Maleficent,28/05/2014,130,12,98,0
+274,X-Men: Days of Future Past,22/05/2014,14,4,131,0
+275,Captain America: The Winter Soldier,04/04/2014,132,4,136,0
+276,The Hunger Games: Mockingjay Part 1,10/11/2014,23,8,123,0
+277,The Amazing Spider-Man 2,10/04/2014,135,4,141,0
+278,Dawn of the Planet of the Apes,11/07/2014,137,4,130,0
+279,Interstellar,07/11/2014,27,3,169,1
+280,Frozen,27/11/2013,139,11,102,2
+281,Iron Man 3,03/05/2013,140,4,130,0
+282,Despicable Me 2,03/07/2013,141,11,98,0
+283,The Hobbit: The Desolation of Smaug,13/12/2013,12,12,161,0
+284,The Hunger Games: Catching Fire,11/11/2013,23,8,146,0
+285,Fast & Furious 6,07/05/2013,142,4,130,0
+286,Monsters University,21/06/2013,143,11,104,0
+287,Gravity,04/10/2013,38,3,91,7
+288,Man of Steel,14/06/2013,76,4,143,0
+289,Thor: The Dark World,22/10/2013,144,4,112,0
+290,The Avengers,04/05/2012,86,4,143,0
+291,Skyfall,26/10/2012,61,9,143,2
+292,The Dark Knight Rises,20/07/2012,27,4,165,0
+293,The Hobbit: An Unexpected Journey,14/12/2012,12,12,169,0
+294,Ice Age: Continental Drift,27/06/2012,149,11,88,0
+295,The Twilight Saga: Breaking Dawn - Part 2,16/11/2012,150,28,115,0
+296,The Amazing Spider-Man,03/07/2012,135,4,136,0
+297,Madagascar 3: Europe's Most Wanted,08/06/2012,151,11,93,0
+298,The Hunger Games,23/03/2012,152,3,142,0
+299,Men in Black 3,25/05/2012,31,3,106,0
+300,Harry Potter and the Deathly Hallows - Part 2,15/07/2011,19,12,130,0
+301,Transformers: Dark of the Moon,29/06/2011,18,3,157,0
+302,Pirates of the Caribbean: On Stranger Tides,20/05/2011,153,8,137,0
+303,The Twilight Saga: Breaking Dawn - Part 1,18/11/2011,150,28,117,0
+304,Mission: Impossible - Ghost Protocol,16/12/2011,24,9,133,0
+305,Kung Fu Panda 2,26/05/2011,154,11,90,0
+306,Fast Five,29/04/2011,142,4,130,0
+307,The Hangover Part II,26/05/2011,75,7,102,0
+308,The Smurfs,29/07/2011,155,11,103,0
+309,Cars 2,24/06/2011,156,11,106,0
+310,Toy Story 3,18/06/2010,157,11,103,2
+311,Alice in Wonderland,25/02/2010,28,12,108,2
+312,Harry Potter and the Deathly Hallows - Part 1,19/11/2010,19,12,146,0
+313,Inception,16/07/2010,27,3,148,4
+314,Shrek Forever After,21/05/2010,158,11,93,0
+315,The Twilight Saga: Eclipse,30/06/2010,159,28,123,0
+316,Iron Man 2,07/05/2010,160,4,125,0
+317,Tangled,24/11/2010,161,11,100,0
+318,Despicable Me,09/07/2010,141,11,95,0
+319,How to Train Your Dragon,26/03/2010,162,11,98,0
+320,Avatar,17/12/2009,15,3,161,3
+321,Harry Potter and the Half-Blood Prince,15/07/2009,19,12,153,0
+322,Ice Age: Dawn of the Dinosaurs,01/07/2009,163,11,94,0
+323,Transformers: Revenge of the Fallen,19/06/2009,18,3,150,0
+324,2012,13/11/2009,42,25,158,0
+325,Up,29/05/2009,46,11,96,2
+326,The Twilight Saga: New Moon,20/11/2009,164,28,130,0
+327,Sherlock Holmes,26/12/2009,165,18,128,0
+328,Angels & Demons,15/05/2009,40,18,138,0
+329,The Hangover,05/06/2009,75,7,100,0
+330,The Dark Knight,24/07/2008,27,4,152,2
+332,Kung Fu Panda,06/06/2008,166,11,92,0
+333,Hancock,02/07/2008,167,4,92,0
+334,Mamma Mia!,30/06/2008,168,20,109,0
+335,Madagascar: Escape 2 Africa,07/11/2008,151,11,89,0
+336,Quantum of Solace,31/10/2008,169,9,106,0
+337,Iron Man,02/05/2008,160,4,126,0
+338,WALL-E,27/06/2008,170,11,98,1
+339,The Chronicles of Narnia: Prince Caspian,16/05/2008,67,12,150,0
+340,National Treasure: Book of Secrets,21/12/2007,171,8,124,0
+341,Frost/Nixon,15/10/2008,40,2,122,0
+342,Ice Age: The Meltdown,31/03/2006,163,11,91,0
+343,Night at the Museum,22/12/2006,172,8,108,0
+344,Cars,09/06/2006,156,11,116,0
+345,Happy Feet,17/11/2006,173,11,108,1
+346,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",08/12/2005,67,12,145,1
+347,Madagascar,27/05/2005,151,11,86,0
+348,Hitch,11/02/2005,174,6,118,0
+349,The Incredibles,05/11/2004,24,11,115,2
+350,Meet the Fockers,22/12/2004,175,7,115,0
+351,Shark Tale,01/10/2004,176,11,90,0
+352,Finding Nemo,30/05/2003,170,11,100,1
+353,Terminator 3: Rise of the Machines,02/07/2003,177,3,109,0
+354,Bad Boys II,18/07/2003,18,4,147,0
+355,Signs,02/08/2002,62,18,107,0
+356,Ice Age,15/03/2002,163,11,81,0
+357,My Big Fat Greek Wedding,19/04/2002,184,7,95,0
+358,The Mummy Returns,04/05/2001,186,8,130,0
+359,Jurassic Park III,18/07/2001,187,8,92,0
+360,Hannibal,09/02/2001,51,9,132,0
+361,What Women Want,15/12/2000,188,7,127,0
+362,Dinosaur,19/05/2000,189,11,82,0
+363,How the Grinch Stole Christmas,17/11/2000,40,7,104,1
+364,Meet the Parents,06/10/2000,175,7,108,0
+365,What Lies Beneath,21/07/2000,20,10,130,0
+366,Toy Story 2,24/11/1999,156,11,95,0
+367,Tarzan,16/06/1999,190,11,88,1
+368,The Mummy,07/05/1999,186,8,125,0
+369,Notting Hill,21/05/1999,191,27,124,0
+370,Austin Powers: The Spy Who Shagged Me,11/06/1999,175,7,96,0
+371,Godzilla,20/05/1998,42,3,139,0
+372,There's Something About Mary,15/07/1998,192,7,119,0
+373,A Bug's Life,25/11/1998,156,11,95,0
+374,Mulan,19/06/1998,193,11,87,0
+375,Dr. Dolittle,26/06/1998,194,7,85,0
+376,Shakespeare in Love,03/12/1998,195,27,123,7
+377,The Lost World: Jurassic Park,23/05/1997,4,8,129,0
+378,Air Force One,25/07/1997,25,9,124,0
+380,Liar Liar,21/03/1997,16,7,88,0
+381,My Best Friend's Wedding,20/06/1997,196,27,104,0
+382,The Full Monty,29/08/1997,197,7,91,1
+383,Twister,17/05/1996,198,25,113,0
+384,The Hunchback of Notre Dame,21/06/1996,199,11,91,0
+385,101 Dalmatians,27/11/1996,200,26,103,0
+386,Ransom,08/11/1996,40,9,121,0
+387,The Nutty Professor,28/06/1996,16,7,95,1
+388,Jerry Maguire,13/12/1996,201,2,139,1
+389,Eraser,21/06/1996,202,4,114,0
+390,Toy Story,22/11/1995,156,11,81,0
+391,Pocahontas,23/06/1995,203,11,82,2
+392,Batman Forever,16/06/1995,204,4,122,0
+393,Casper,26/05/1995,205,7,101,0
+394,Jumanji,15/12/1995,187,8,104,0
+395,The Lion King,15/06/1994,379,11,88,2
+396,The Mask,29/07/1994,202,7,101,0
+397,Speed,10/06/1994,198,4,115,2
+398,The Flintstones,27/05/1994,208,7,91,0
+399,Dumb and Dumber,16/12/1994,192,7,107,0
+400,Donnie Brasco,28/02/1997,26,14,126,0
+401,Interview with the Vampire: The Vampire Chronicles,11/11/1994,209,10,122,0
+403,Mrs. Doubtfire,24/11/1993,41,7,125,1
+404,The Firm,30/06/1993,210,9,154,0
+405,Indecent Proposal,07/04/1993,211,2,118,0
+406,Sleepless in Seattle,25/06/1993,212,6,105,0
+407,Philadelphia,22/12/1993,213,2,126,2
+408,The Pelican Brief,17/12/1993,214,9,141,0
+409,Aladdin,25/11/1992,215,11,90,2
+410,The Bodyguard,25/11/1992,216,9,129,0
+411,Home Alone 2: Lost in New York,20/11/1992,41,26,120,0
+412,Basic Instinct,08/05/1992,72,9,128,0
+413,Batman Returns,19/06/1992,28,4,126,0
+414,A Few Good Men,11/12/1992,217,2,138,0
+415,Sister Act,29/05/1992,218,7,100,0
+416,Bram Stoker's Dracula,13/11/1992,219,10,128,3
+417,Wayne's World,14/02/1992,220,7,95,0
+418,Beauty and the Beast,22/11/1991,199,11,84,2
+419,Hook,11/12/1991,4,8,144,0
+420,The Silence of the Lambs,14/02/1991,213,9,118,5
+421,JFK,20/12/1991,221,9,188,2
+422,The Addams Family,22/11/1991,31,7,99,0
+423,Cape Fear,13/11/1991,9,9,128,0
+424,Hot Shots!,31/07/1991,222,7,84,0
+425,City Slickers,07/06/1991,223,7,112,1
+426,Ghost,13/07/1990,224,6,127,2
+427,Home Alone,16/11/1990,41,7,102,0
+428,Pretty Woman,23/03/1990,225,6,119,0
+430,Teenage Mutant Ninja Turtles,30/03/1990,226,4,93,0
+431,Batman,23/06/1989,28,4,126,1
+432,Look Who's Talking,13/10/1989,227,7,96,0
+433,Dead Poets Society,02/06/1989,36,2,128,1
+434,"Honey, I Shrunk the Kids",23/06/1989,187,8,94,0
+435,Ghostbusters II,16/06/1989,94,7,108,0
+436,The Little Mermaid,17/11/1989,215,11,82,2
+437,Born on the Fourth of July,20/12/1989,221,19,145,2
+438,Rain Man,16/12/1988,228,2,133,4
+439,Coming to America,29/06/1988,229,7,117,0
+440,Big,03/12/1988,230,7,104,0
+441,Crocodile Dundee II,25/05/1988,231,8,112,0
+442,The Naked Gun: From the Files of Police Squad!,02/12/1988,232,7,85,0
+443,Cocktail,29/07/1988,233,6,103,0
+444,Beetlejuice,30/03/1988,28,7,92,1
+445,Three Men and a Baby,25/11/1987,99,7,104,0
+446,Fatal Attraction,18/09/1987,211,9,119,0
+447,Beverly Hills Cop II,20/05/1987,78,4,103,0
+448,"Good Morning, Vietnam",23/12/1987,228,7,120,0
+449,Moonstruck,18/12/1987,234,6,102,3
+450,The Secret of My Success,10/04/1987,235,7,111,0
+451,Stakeout,05/08/1987,236,7,117,0
+452,The Witches of Eastwick,12/06/1987,173,7,118,0
+453,Top Gun,16/05/1986,78,4,110,1
+454,Crocodile Dundee,26/09/1986,237,7,98,0
+455,Platoon,19/12/1986,221,5,120,4
+456,"The Karate Kid, Part II",20/06/1986,238,2,113,0
+458,The Golden Child,12/12/1986,239,8,94,0
+460,Ferris Bueller's Day Off,11/06/1986,240,7,103,0
+461,Rambo: First Blood Part II,22/05/1985,241,4,96,0
+462,Rocky IV,27/11/1985,242,22,91,0
+463,The Color Purple,18/12/1985,4,2,153,0
+464,Out Of Africa,18/12/1985,210,6,161,7
+465,Cocoon,21/06/1985,40,3,117,2
+466,The Jewel of the Nile,11/12/1985,243,8,107,0
+468,The Goonies,07/06/1985,30,8,114,0
+469,Spies Like Us,06/12/1985,229,7,102,0
+470,Beverly Hills Cop,05/12/1984,244,4,105,0
+472,Gremlins,08/06/1984,245,7,106,0
+473,The Karate Kid,22/06/1984,238,2,127,0
+474,Police Academy,23/03/1984,246,7,96,0
+475,Footloose,17/02/1984,235,2,110,0
+476,Romancing the Stone,30/03/1984,20,8,106,0
+477,Terms of Endearment,09/12/1983,247,2,132,5
+478,Flashdance,15/04/1983,211,2,98,1
+479,Trading Places,10/06/1983,229,7,116,0
+480,WarGames,03/06/1983,236,9,114,0
+481,Sudden Impact,09/12/1983,10,9,117,0
+482,Staying Alive,15/07/1983,242,2,93,0
+485,Tootsie,17/12/1982,210,7,116,1
+486,An Officer and a Gentleman,13/08/1982,248,2,122,2
+487,Rocky III,28/05/1982,242,22,100,0
+488,Porky's,16/04/1982,249,7,98,0
+489,48 Hrs.,08/12/1982,250,4,96,0
+490,Poltergeist,04/06/1982,251,10,114,0
+492,Annie,18/06/1982,252,20,128,0
+494,Superman II,09/04/1981,313,4,127,0
+495,Arthur,17/07/1981,253,7,97,2
+497,The Cannonball Run,19/06/1981,254,7,95,0
+498,Chariots of Fire,30/03/1981,255,22,124,4
+500,Time Bandits,10/07/1981,256,12,113,0
+501,9 to 5,19/12/1980,257,7,110,0
+502,Stir Crazy,12/12/1980,258,7,111,0
+503,Airplane!,02/07/1980,222,7,87,0
+504,Any Which Way You Can,17/12/1980,259,4,116,0
+505,Private Benjamin,10/10/1980,260,7,109,0
+507,Smokey and the Bandit II,15/08/1980,254,7,100,0
+509,The Blues Brothers,20/06/1980,229,7,132,0
+510,Kramer vs. Kramer,19/12/1979,261,2,105,5
+511,The Amityville Horror,27/07/1979,262,10,118,0
+512,Rocky II,15/06/1979,242,2,119,0
+513,Apocalypse Now,15/08/1979,219,5,153,2
+514,10,05/10/1979,263,27,122,0
+515,The Jerk,14/12/1979,264,7,94,0
+516,The Muppet Movie,31/05/1979,265,26,97,0
+517,Grease,16/06/1978,266,20,110,0
+518,National Lampoon's Animal House,28/07/1978,229,7,109,0
+519,Every Which Way but Loose,20/12/1978,267,4,114,0
+522,Jaws 2,16/06/1978,268,9,116,0
+523,Dawn of the Dead,01/09/1978,269,10,127,0
+524,Revenge of the Pink Panther,19/07/1978,263,7,98,0
+525,The Deer Hunter,08/12/1978,270,2,183,5
+526,Smokey and the Bandit,27/05/1977,254,7,96,0
+527,Close Encounters of the Third Kind,16/11/1977,4,3,135,1
+529,Saturday Night Fever,14/12/1977,236,2,118,0
+531,A Bridge Too Far,15/06/1977,101,5,176,0
+532,The Deep,17/06/1977,271,8,124,0
+533,Annie Hall,20/04/1977,272,27,93,4
+534,Rocky,21/11/1976,238,2,119,3
+537,All the President's Men,09/04/1976,214,9,138,4
+538,The Omen,06/06/1976,30,10,111,1
+540,Silver Streak,08/12/1976,273,7,114,0
+541,The Enforcer,22/12/1976,267,4,96,0
+542,Midway,18/06/1976,274,5,131,0
+543,Jaws,20/06/1975,4,9,124,3
+544,The Rocky Horror Picture Show,14/08/1975,275,20,100,0
+545,One Flew Over the Cuckoo's Nest,19/11/1975,276,2,133,5
+546,Dog Day Afternoon,21/09/1975,277,14,125,1
+547,Shampoo,11/02/1975,278,2,110,1
+548,The Return of the Pink Panther,21/05/1975,263,7,114,0
+553,Blazing Saddles,07/02/1974,279,7,92,0
+554,The Towering Inferno,14/12/1974,100,25,165,3
+556,Young Frankenstein,15/12/1974,279,7,105,0
+557,Earthquake,15/11/1974,281,25,121,1
+558,The Godfather Part II,12/12/1974,219,14,202,6
+559,Airport 1975,18/10/1974,274,25,106,0
+561,The Longest Yard,21/08/1974,282,7,121,0
+563,The Sting,26/12/1973,283,14,129,7
+564,The Exorcist,26/12/1973,284,10,121,2
+565,American Graffiti,02/08/1973,7,2,112,0
+566,Papillon,16/12/1973,285,14,150,0
+568,Magnum Force,25/12/1973,443,4,124,0
+570,Robin Hood,08/11/1973,287,11,83,0
+572,The Godfather,24/03/1972,219,14,177,3
+573,The Poseidon Adventure,12/12/1972,288,25,117,1
+576,Deliverance,30/07/1972,289,9,110,0
+578,Cabaret,13/02/1972,290,20,124,8
+582,Fiddler on the Roof,03/11/1971,234,20,179,3
+583,The French Connection,09/10/1971,284,14,104,5
+584,Dirty Harry,23/12/1971,291,9,102,0
+588,A Clockwork Orange,19/12/1971,292,2,136,0
+589,Bedknobs and Broomsticks,07/10/1971,293,8,117,1
+590,Love Story,16/12/1970,273,6,100,1
+591,Airport,05/03/1970,294,25,137,1
+592,MASH,25/01/1970,295,7,116,1
+593,Patton,02/04/1970,285,19,170,7
+598,Tora! Tora! Tora!,23/09/1970,297,5,144,1
+600,Butch Cassidy and the Sundance Kid,24/10/1969,283,1,110,4
+601,Midnight Cowboy,25/05/1969,298,2,113,3
+602,Easy Rider,14/07/1969,299,2,95,0
+605,Paint Your Wagon,15/10/1969,300,20,154,0
+606,True Grit,11/06/1969,301,1,128,1
+609,2001: A Space Odyssey,03/04/1968,292,3,142,1
+611,The Love Bug,24/12/1968,293,7,108,0
+612,The Odd Couple,02/05/1968,302,7,105,0
+613,Bullitt,17/10/1968,271,14,113,1
+614,Romeo and Juliet,08/10/1968,303,6,138,2
+615,Oliver!,26/09/1968,304,20,153,5
+617,Planet of the Apes,03/04/1968,285,3,112,0
+618,The Graduate,21/12/1967,306,7,105,1
+619,The Jungle Book,18/10/1967,287,11,78,0
+621,Bonnie and Clyde,13/08/1967,307,14,111,2
+622,The Dirty Dozen,15/06/1967,282,5,150,1
+627,Night of the Living Dead,01/10/1968,269,10,96,0
+633,"The Good, the Bad and the Ugly",15/12/1966,308,1,177,0
+636,Grand Prix,21/12/1966,309,22,179,3
+638,The Sound of Music,02/03/1965,89,20,174,5
+639,Doctor Zhivago,22/12/1965,310,6,193,5
+644,What's New Pussycat?,22/06/1965,311,7,108,0
+646,Von Ryan's Express,23/06/1965,281,5,117,0
+647,Mary Poppins,27/08/1964,293,20,139,5
+648,My Fair Lady,09/11/1964,312,20,170,8
+650,A Fistful of Dollars,12/09/1964,308,1,99,0
+652,A Shot in the Dark,23/06/1964,263,7,102,0
+653,A Hard Day's Night,06/07/1964,313,20,87,0
+655,Cleopatra,12/06/1963,314,13,248,4
+656,How the West Was Won,20/02/1963,315,1,164,3
+657,"It's a Mad, Mad, Mad, Mad World",07/11/1963,316,7,210,1
+660,The Sword in the Stone,25/12/1963,287,11,79,0
+662,The Birds,28/03/1963,317,10,119,0
+664,Lawrence of Arabia,10/12/1962,310,19,222,7
+665,The Longest Day,25/09/1962,318,5,178,2
+669,Mutiny on the Bounty,08/11/1962,319,13,185,0
+670,To Kill a Mockingbird,25/12/1962,320,2,129,3
+674,West Side Story,18/10/1961,89,20,152,10
+675,The Guns of Navarone,27/04/1961,321,5,158,1
+676,El Cid,06/12/1961,322,13,184,0
+677,The Absent-Minded Professor,16/03/1961,293,7,97,0
+678,The Parent Trap,21/06/1961,323,7,128,0
+679,La Dolce Vita,05/02/1960,324,7,174,1
+682,One Hundred and One Dalmatians,25/01/1961,287,11,79,0
+684,Spartacus,07/10/1960,292,13,184,4
+685,Psycho,16/06/1960,317,10,109,0
+687,Swiss Family Robinson,21/12/1960,318,8,126,0
+688,The Alamo,24/10/1960,325,5,167,1
+691,Ocean's 11,10/08/1960,319,7,127,0
+694,Ben-Hur,18/11/1959,326,2,212,11
+695,Sleeping Beauty,29/01/1959,287,11,75,0
+696,North by Northwest,28/07/1959,317,9,136,0
+697,Some Like It Hot,29/03/1959,327,27,121,1
+702,Rio Bravo,18/03/1959,328,1,141,0
+704,South Pacific,19/03/1958,300,20,171,1
+706,Cat on a Hot Tin Roof,20/09/1958,329,2,107,0
+709,The Vikings,28/06/1958,297,8,116,0
+710,Vertigo,09/05/1958,317,9,128,0
+714,The Bridge on the River Kwai,02/10/1957,310,5,161,7
+717,Old Yeller,25/12/1957,293,2,83,0
+721,A Farewell to Arms,14/12/1957,330,2,152,0
+722,Gunfight at the O.K. Corral,30/05/1957,331,1,122,0
+724,The Ten Commandments,05/10/1956,127,12,220,1
+726,War and Peace,21/08/1956,332,2,208,0
+727,The King and I,28/06/1956,333,20,133,5
+728,The Searchers,13/03/1956,315,1,119,0
+731,High Society,17/07/1956,334,20,111,0
+736,Oklahoma!,11/10/1955,335,20,145,2
+737,Guys and Dolls,03/11/1955,314,20,150,0
+738,Lady and the Tramp,22/06/1955,336,11,75,0
+744,"20,000 Leagues Under the Sea",23/12/1954,297,8,127,2
+753,The Robe,16/09/1953,337,2,135,2
+754,From Here to Eternity,05/08/1953,335,2,118,8
+755,Shane,23/04/1953,338,1,118,1
+757,Peter Pan,05/02/1953,336,11,76,0
+761,Gentlemen Prefer Blondes,15/07/1953,328,20,91,0
+766,Ivanhoe,31/07/1952,339,8,106,0
+767,Singin' in the Rain,11/04/1952,340,20,103,0
+769,Moulin Rouge,23/12/1952,252,2,119,2
+774,Alice in Wonderland,26/06/1951,336,11,75,0
+776,A Streetcar Named Desire,18/09/1951,341,2,122,4
+779,The African Queen,23/12/1951,252,8,105,1
+781,Strangers on a Train,30/06/1951,317,9,101,0
+783,Cinderella,04/03/1950,336,11,75,0
+784,King Solomon's Mines,24/11/1950,342,8,103,2
+785,Annie Get Your Gun,17/05/1950,334,20,107,1
+796,Sands of Iwo Jima,14/12/1949,138,5,100,0
+853,For Whom the Bell Tolls,14/07/1943,344,5,170,1
+858,Casablanca,26/11/1942,345,2,102,3
+885,The Great Dictator,15/10/1940,348,7,124,0
+887,The Grapes of Wrath,24/01/1940,315,2,129,2
+893,Gone with the Wind,15/12/1939,349,6,221,8
+899,"Goodbye, Mr. Chips",15/05/1939,126,2,114,1
+900,The Wizard of Oz,25/08/1939,349,12,101,2
+911,Angels with Dirty Faces,26/11/1938,345,14,97,0
+913,Snow White and the Seven Dwarfs,21/12/1937,351,11,83,0
+941,Anna Karenina,30/08/1935,354,2,95,0
+972,Frankenstein,21/11/1931,356,10,71,0
+977,Dracula,12/02/1931,357,10,85,0
+982,All Quiet on the Western Front,21/04/1930,319,5,152,2
+1063,The Kid,21/01/1921,348,7,68,0
+1120,Star Wars: The Force Awakens,17/12/2015,44,3,136,0
+1121,Jurassic World,12/06/2015,148,8,124,0
+1122,Furious 7,03/04/2015,147,4,137,0
+1123,Avengers: Age of Ultron,01/05/2015,86,4,141,0
+1124,Minions,11/06/2015,141,11,91,0
+1125,Spectre,26/10/2015,61,9,148,1
+1126,Inside Out,19/06/2015,46,11,94,1
+1127,Mission: Impossible - Rogue Nation,31/07/2015,146,4,131,0
+1128,The Hunger Games: Mockingjay - Part 2,20/11/2015,23,3,137,0
+1129,The Martian,02/10/2015,51,3,141,0
+1130,Captain America: Civil War,06/05/2016,132,4,147,0
+1131,Finding Dory,17/06/2016,170,11,97,0
+1132,Zootopia,04/04/2016,178,11,108,0
+1133,The Jungle Book,15/04/2016,160,8,105,0
+1134,Batman v Superman: Dawn of Justice,25/03/2016,76,4,151,0
+1135,The Secret Life of Pets,08/07/2016,179,11,87,0
+1136,Deadpool,12/02/2016,180,4,108,0
+1137,Suicide Squad,05/08/2016,181,4,123,0
+1138,The Mermaid,08/02/2016,182,12,94,0
+1139,X-Men: Apocalypse,09/05/2016,14,4,144,0
+1140,Doctor Strange,04/11/2016,183,4,115,0
+1141,City of God,30/08/2002,185,14,130,0
+1142,The Parent Trap,29/07/1998,188,7,128,0
+1143,Captain Blood,28/12/1935,345,8,119,0
+1144,The Adventures of Robin Hood,14/05/1938,345,8,102,3
+1145,The Charge of the Light Brigade,20/10/1936,345,8,115,1
+1146,The Hound of the Baskervilles,24/03/1939,346,18,81,0
+1147,The Adventures of Sherlock Holmes,01/09/1939,347,18,81,0
+1148,Mutiny on the Bounty,08/11/1935,350,2,132,1
+1149,The Misfits,01/02/1961,252,2,125,0
+1150,Lolita,13/06/1962,292,2,152,0
+1151,The 39 Steps,06/06/1935,317,9,86,0
+1152,Citizen Kane,01/05/1941,352,2,119,1
+1153,Metropolis,10/01/1927,353,3,153,0
+1154,Anna Karenina,22/01/1948,355,2,139,0
+1155,Scarface,09/04/1932,328,14,95,0
+1156,The Public Enemy,23/04/1931,358,14,83,0
+1157,It's a Wonderful Life,20/12/1946,359,12,130,0
+1158,Mr. Smith Goes to Washington,17/10/1939,359,7,129,1
+1159,Brief Encounter,26/11/1945,310,6,86,0
+1160,The Killers,28/08/1946,360,14,103,0
+1161,The Seventh Veil,18/10/1945,342,14,94,1
+1162,Great Expectations,26/12/1946,310,2,113,2
+1163,Miracle on 34th Street,02/05/1947,294,7,96,3
+1164,Hamlet,04/05/1948,361,2,155,4
+1165,Joan of Arc,11/11/1948,349,19,145,2
+1166,The Three Musketeers,20/10/1948,362,8,125,0
+1167,The Big Boss,03/10/1971,363,17,110,0
+1168,Fist of Fury,22/03/1972,363,17,108,0
+1169,Way of the Dragon,30/12/1972,364,17,100,0
+1170,Game of Death,23/03/1978,365,17,85,0
+1171,Enter the Dragon,26/07/1973,365,17,102,0
+1172,Monty Python and the Holy Grail,09/04/1975,256,7,92,0
+1173,Monty Python's Life of Brian,17/08/1979,366,7,93,0
+1174,Drunken Master,05/10/1978,367,17,110,0
+1175,Half a Loaf of Kung Fu,01/07/1978,368,17,98,0
+1176,Snake and Crane Arts of Shaolin,08/03/1978,368,17,93,0
+1177,The Fearless Hyena,17/02/1979,369,17,97,0
+1178,Snake in the Eagle's Shadow,01/03/1978,367,17,98,0
+1179,Spiritual Kung Fu,23/11/1978,363,17,97,0
+1180,Dragon Fist,21/04/1979,363,17,93,0
+1181,Magnificent Bodyguards,27/04/1978,363,17,78,0
+1182,The Young Master,09/02/1980,369,17,106,0
+1183,Project A,22/12/1983,369,17,106,0
+1184,Wheels on Meals,17/08/1984,118,17,104,0
+1185,Cannonball Run II,29/06/1984,254,7,108,0
+1186,Police Story,14/12/1985,369,17,101,0
+1187,Winners and Sinners,07/07/1983,118,17,101,0
+1188,My Lucky Stars,10/02/1985,118,17,96,0
+1189,"Twinkle, Twinkle Lucky Stars",15/08/1985,118,17,90,0
+1190,Armour of God,21/01/1987,369,17,97,0
+1191,Project A Part II,19/08/1987,369,17,106,0
+1192,Police Story 2,20/08/1988,369,17,101,0
+1193,Dragons Forever,11/02/1988,118,17,94,0
+1194,Armour of God II: Operation Condor,07/02/1991,369,17,106,0
+1195,Police Story 3: Super Cop,04/07/1992,114,17,95,0
+1196,Once Upon a Time in China,15/08/1991,370,17,134,0
+1197,Twin Dragons,15/01/1992,370,17,104,0
+1198,Once Upon a Time in China II,16/04/1992,370,17,113,0
+1199,Once Upon a Time in China III,11/02/1993,370,17,105,0
+1200,Fong Sai-yuk,04/03/1993,371,17,106,0
+1201,Fong Sai-yuk II,30/07/1993,371,17,96,0
+1202,Fist of Legend,22/12/1994,372,17,103,0
+1203,Romeo Must Die,22/03/2000,373,4,115,0
+1204,The One,02/11/2001,374,3,87,0
+1205,Kiss of the Dragon,06/07/2001,375,4,98,0
+1206,Cradle 2 the Grave,28/02/2003,373,4,101,0
+1207,Unleashed,02/02/2005,376,17,102,0
+1208,Fearless,26/01/2006,377,17,105,0
+1209,The Warlords,12/12/2007,378,5,127,0
+1210,Dragon,13/05/2011,378,17,116,0
+1211,The Forbidden Kingdom,18/04/2008,379,17,104,0
+1212,The Mummy: Tomb of the Dragon Emperor,01/08/2008,32,8,111,0
+1213,The Expendables,03/08/2010,242,4,103,0
+1214,The Expendables 2,13/08/2012,380,4,103,0
+1215,The Expendables 3,04/08/2014,381,4,126,0
+1216,The Incredible Hulk,08/06/2008,376,4,112,0
+1217,Now You See Me,21/05/2013,376,18,115,0
+1218,Clash of the Titans,02/04/2010,376,8,106,0
+1219,Clash of the Titans,12/06/1981,382,8,118,0
+1220,The Transporter,02/10/2002,376,4,92,0
+1221,Transporter 2,03/08/2005,376,4,88,0
+1222,Zu Warriors from the Magic Mountain,05/02/1983,370,8,98,0
+1223,A Better Tomorrow,02/08/1986,45,4,95,0
+1224,A Better Tomorrow II,17/12/1987,45,4,104,0
+1225,The Master,28/05/1992,370,17,92,0
+1226,A Better Tomorrow III,20/10/1989,370,4,145,0
+1227,The Killer,06/07/1989,45,4,110,0
+1228,Seven Swords,29/07/2005,370,17,153,0
+1229,Detective Dee and the Mystery of the Phantom Flame,29/09/2010,370,8,122,0
+1230,Flying Swords of Dragon Gate,15/12/2011,370,17,125,0
+1231,Young Detective Dee: Rise of the Sea Dragon,28/09/2013,370,8,133,0
+1232,Hard Boiled,16/04/1992,45,4,128,0
+1233,Hard Target,20/08/1993,45,4,97,0
+1234,Broken Arrow,09/02/1996,45,4,108,0
+1235,Face/Off,27/06/1997,45,4,139,0
+1236,Paycheck,25/12/2003,45,3,119,0
+1237,Red Cliff,10/07/2008,45,5,146,0
+1238,Red Cliff II,07/01/2009,45,5,142,0
+1239,The Raid,08/09/2011,384,17,101,0
+1240,Merantau,06/08/2009,384,17,135,0
+1241,The Raid 2,21/01/2014,384,17,150,0
+1242,Ong-Bak,21/01/2003,385,17,108,0
+1243,Ong-Bak 2,04/12/2008,387,17,98,0
+1244,Ong-Bak 3,05/05/2010,387,17,95,0
+1245,Warrior King,11/08/2005,385,17,110,0
+1246,Warrior King 2,23/10/2013,385,17,103,0
+1247,Ip Man,18/12/2008,388,17,108,0
+1248,Ip Man 2,29/04/2010,388,17,109,0
+1249,Ip Man 3,16/12/2015,388,17,105,0
+1250,Iron Monkey,03/09/1993,367,17,90,0
+1251,"Crouching Tiger, Hidden Dragon: Sword of Destiny",18/02/2016,367,17,105,0
+1252,Dragon Tiger Gate,28/07/2006,388,17,96,0
+1253,Rashomon,25/08/1950,122,2,88,0
+1254,Ikiru,09/10/1952,122,2,143,0
+1255,Throne of Blood,15/01/1957,122,2,110,0
+1256,The Hidden Fortress,28/12/1958,122,8,139,0
+1257,Yojimbo,25/04/1961,122,4,110,0
+1258,Sanjuro,01/01/1962,122,4,95,0
+1259,47 Ronin,22/10/1994,389,4,132,0
+1260,47 Samurai,03/11/1962,390,4,207,0
+1261,47 Ronin,06/12/2013,391,4,127,0
+1262,The Tale of Osaka Castle,03/01/1961,390,4,95,0
+1263,Whirlwind,03/01/1964,390,4,108,0
+1264,Samurai Saga,28/04/1959,390,4,111,0
+1265,Nippon tanjo,01/01/1959,390,12,182,0
+1266,Samurai I: Musashi Miyamoto,26/09/1954,390,4,93,0
+1267,Samurai II: Duel at Ichijoji Temple,12/07/1955,390,4,103,0
+1268,Samurai III: Duel at Ganryu Island,03/01/1956,390,4,105,0
+1269,Ichi the Killer,14/09/2001,392,14,128,0
+1270,13 Assassins,25/09/2010,392,4,125,0
+1271,Hara-Kiri: Death of a Samurai,19/05/2011,392,2,126,0
+1272,Zatoichi,02/09/2003,393,4,116,0
+1273,Thor,17/04/2011,394,4,114,0
+1274,Battleship,03/04/2012,167,4,131,0
+1275,The Kingdom,22/08/2007,167,9,109,0
+1276,Lone Survivor,12/11/2013,167,5,121,0
+1277,Deepwater Horizon,13/09/2016,167,25,107,0
+1278,Boiling Point,15/09/1990,393,14,96,0
+1279,Outrage,17/05/2010,393,14,109,0
+1280,Beyond Outrage,02/09/2012,393,14,112,0
+1281,Battle Royale,16/12/2000,395,4,113,0
+1282,The Fall of Ako Castle,28/10/1978,395,4,158,0
+1283,Shogun's Samurai,21/01/1978,395,4,130,0
+1284,Samurai Reincarnation,06/06/1981,395,4,122,0
+1285,The Fast and the Furious: Tokyo Drift,04/06/2006,142,4,104,0
+1286,The Bushido Blade,20/11/1981,396,4,104,0
+1287,When the Last Sword Is Drawn,04/11/2002,397,2,137,0
+1288,Departures,23/08/2008,397,2,130,1
+1289,The Twilight Samurai,02/11/2002,398,2,129,0
+1290,The Hidden Blade,30/10/2004,398,2,132,0
+1291,Love and Honor,20/10/2006,398,2,118,0
+1292,Lone Wolf and Cub: Sword of Vengeance,01/04/1972,399,8,83,0
+1293,Lone Wolf and Cub: Baby Cart at the River Styx,27/04/1972,399,8,85,0
+1294,Lone Wolf and Cub: Baby Cart to Hades,02/09/1972,399,8,89,0
+1295,Lone Wolf and Cub: Baby Cart in Peril,01/11/1972,400,8,81,0
+1296,Lone Wolf and Cub: Baby Cart in the Land of Demons,11/08/1973,399,8,89,0
+1297,Lone Wolf and Cub: White Heaven in Hell,24/04/1974,401,8,84,0
+1298,Godzilla,03/11/1954,402,4,96,0
+1299,King Kong vs. Godzilla,11/08/1962,402,4,97,0
+1300,Mothra vs. Godzilla,29/04/1964,402,4,88,0
+1301,District 13,10/11/2004,403,4,86,0
+1302,District 13: Ultimatum,18/02/2009,404,4,106,0
+1303,Taken,27/02/2008,403,9,90,0
+1304,From Paris with Love,05/02/2010,403,9,92,0
+1305,The Gunman,20/03/2015,403,9,115,0
+1306,Mesrine Part 1: Killer Instinct,22/10/2008,405,14,113,0
+1307,Mesrine Part 2: Public Enemy Number 1,19/11/2008,405,14,133,0
+1308,Assault on Precinct 13,19/01/2005,405,9,109,0
+1309,A Prophet,16/05/2009,406,14,155,0
+1310,Kung Fu Hustle,14/09/2004,182,17,98,0
+1311,This Is England,12/09/2006,407,2,102,0
+1312,A Room for Romeo Brass,23/08/1999,407,2,90,0
+1313,Once Upon a Time in the Midlands,06/09/2002,407,27,104,0
+1314,Dead Man's Shoes,01/10/2004,407,9,90,0
+1315,The League of Gentlemen's Apocalypse,03/06/2005,408,7,92,0
+1316,Down Terrace,21/09/2009,409,14,93,0
+1317,Kill List,12/03/2011,409,9,95,0
+1318,Sightseers,23/05/2012,409,7,85,0
+1319,A Field in England,05/07/2013,409,9,91,0
+1320,High-Rise,13/09/2015,409,3,119,0
+1321,Free Fire,08/09/2016,409,7,90,0
+1322,Momentum,16/10/2015,410,9,96,0
+1323,District 9,13/08/2009,411,3,112,0
+1324,Elysium,07/08/2013,411,3,109,0
+1325,Chappie,04/03/2015,411,3,120,0
+1326,Slumdog Millionaire,30/08/2008,108,2,120,8
+1327,The Best Exotic Marigold Hotel,30/11/2011,195,7,124,0
+1328,The Second Best Exotic Marigold Hotel,26/02/2015,195,7,122,0
+1329,John Carter,07/03/2012,170,3,132,0
+1330,Ironclad,04/03/2011,412,13,121,0
+1331,Solomon Kane,23/12/2009,413,8,104,0
+1332,A Knight's Tale,11/05/2001,414,8,132,0
+1333,Shallow Grave,17/05/1994,108,14,92,0
+1334,A Life Less Ordinary,24/10/1997,108,7,103,0
+1335,28 Weeks Later,26/04/2007,415,10,100,0
+1336,127 Hours,04/09/2010,108,19,93,0
+1337,Trance,19/03/2013,108,14,101,0
+1338,Steve Jobs,05/09/2015,108,19,122,0
+1339,Life of Pi,28/09/2012,8,8,127,4
+1340,Terminator Genisys,22/06/2015,144,3,126,0
+1341,Maggie,22/04/2015,416,10,95,0
+1342,Sabotage,19/03/2014,181,14,109,0
+1343,Escape Plan,09/10/2013,417,4,115,0
+1344,The Last Stand,18/01/2013,418,4,107,0
+1345,Terminator Salvation,21/05/2009,419,3,115,0
+1346,Collateral Damage,04/02/2002,83,4,108,0
+1347,The 6th Day,28/10/2000,47,3,124,0
+1348,End of Days,16/11/1999,420,10,123,0
+1349,Batman & Robin,20/06/1997,204,4,125,0
+1350,Jingle All the Way,16/11/1996,208,26,89,0
+1351,Junior,23/11/1994,94,7,109,0
+1352,Total Recall,03/08/2012,49,3,118,0
+1353,True Grit,22/12/2010,5,1,110,0
+1354,Red Heat,14/06/1988,250,4,103,0
+1355,Predator,12/06/1987,58,3,107,0
+1356,Raw Deal,06/06/1986,421,4,107,0
+1357,Commando,04/10/1985,422,4,90,0
+1358,X-Men: The Last Stand,25/05/2006,57,4,104,0
+1359,Red Sonja,03/07/1985,297,12,89,0
+1360,Conan the Destroyer,29/06/1984,297,12,101,0
+1361,Conan the Barbarian,16/03/1982,423,12,129,0
+1362,Conan the Barbarian,11/08/2011,424,12,113,0
+1363,Pumping Iron,18/01/1977,425,24,85,0
+1364,Hercules in New York,16/12/1969,426,7,91,0
+1365,3 Days to Kill,12/02/2014,419,9,117,0
+1366,This Means War,17/02/2012,419,4,97,0
+1367,We Are Marshall,22/12/2006,419,2,131,0
+1368,X-Men: First Class,25/05/2011,427,4,132,0
+1369,Charlie's Angels,03/11/2000,419,4,98,0
+1370,Charlie's Angels: Full Throttle,27/06/2003,419,4,106,0
+1371,Kingsman: The Secret Service,13/12/2014,427,4,129,0
+1372,Kick-Ass,26/03/2010,427,4,117,0
+1373,Stardust,10/08/2007,427,12,127,0
+1374,Layer Cake,01/10/2004,427,14,105,0
+1375,Underworld,19/09/2003,49,4,121,0
+1376,Underworld: Evolution,20/01/2006,49,4,106,0
+1377,For a Few Dollars More,18/11/1965,308,1,132,0
+1378,Once Upon a Time in the West,21/12/1968,308,1,165,0
+1379,Once Upon a Time in America,23/05/1984,308,14,229,0
+1380,Underworld: Rise of the Lycans,23/01/2009,428,4,92,0
+1381,Underworld: Awakening,20/01/2012,429,4,89,0
+1382,Underworld: Blood Wars,24/11/2016,430,4,91,0
+1383,Stargate,28/10/1994,42,3,128,0
+1384,Under Siege,09/10/1992,83,4,103,0
+1385,Bridge of Spies,04/10/2015,4,9,141,1
+1386,Duel,13/11/1971,4,9,89,0
+1387,Empire of the Sun,11/12/1987,4,5,154,0
+1388,Amistad,10/12/1997,4,13,154,0
+1389,A.I. Artificial Intelligence,29/06/2001,4,3,146,0
+1390,Catch Me If You Can,25/12/2002,4,19,141,0
+1391,The Terminal,18/06/2004,4,7,128,0
+1392,Lincoln,08/10/2012,4,19,150,2
+1393,Abraham Lincoln: Vampire Hunter,18/06/2012,119,13,105,0
+1394,The BFG,14/05/2016,4,26,117,0
+1395,Day Watch,01/01/2006,119,12,131,0
+1396,Unbroken,17/11/2014,431,19,137,0
+1397,Inside Llewyn Davis,19/05/2013,5,2,105,0
+1398,Burn After Reading,27/08/2008,5,7,96,0
+1399,No Country for Old Men,19/05/2007,5,14,122,4
+1400,The Ladykillers,26/03/2004,5,7,104,0
+1401,The Ladykillers,08/12/1955,432,7,97,0
+1402,The Big Lebowski,06/03/1998,5,7,117,0
+1403,Miller's Crossing,21/09/1990,5,14,115,0
+1404,Outland,22/05/1981,420,3,109,0
+1405,Outlander,11/07/2008,433,3,115,0
+1406,Timecop,16/09/1994,420,3,98,0
+1407,Kung Fu Panda 3,23/01/2016,154,11,95,0
+1408,Universal Soldier,10/07/1992,42,3,102,0
+1409,Double Impact,09/08/1991,435,4,107,0
+1410,Death Warrant,14/09/1990,436,4,89,0
+1411,Kickboxer,08/09/1989,437,17,103,0
+1412,Cyborg,07/04/1989,438,3,82,0
+1413,Bloodsport,26/02/1988,439,17,92,0
+1414,Brooklyn's Finest,16/01/2009,440,14,132,0
+1415,Full Metal Jacket,17/06/1987,292,5,116,0
+1416,Eyes Wide Shut,16/07/1999,292,2,159,0
+1417,The Shining,23/05/1980,292,10,146,0
+1418,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,29/01/1964,292,7,94,0
+1419,Paths of Glory,25/12/1957,292,5,88,0
+1420,The Treasure of the Sierra Madre,06/01/1948,252,1,126,3
+1421,Key Largo,16/07/1948,252,14,101,1
+1422,The Unforgiven,06/04/1960,252,1,125,0
+1423,Unforgiven,03/08/1992,10,1,131,4
+1424,The Big Sleep,23/08/1946,328,14,116,0
+1425,A Fistful of Dynamite,29/10/1971,308,1,157,0
+1426,To Have and Have Not,11/10/1944,328,6,100,0
+1427,Murder on the Orient Express,24/11/1974,277,14,131,1
+1428,The Shootist,20/08/1976,291,1,100,0
+1429,Flash Gordon,05/12/1980,441,3,114,0
+1430,Unforgiven,06/09/2013,442,1,135,0
+1431,Hang 'Em High,03/08/1968,443,1,114,0
+1432,Coogan's Bluff,02/10/1968,291,4,93,0
+1433,Where Eagles Dare,04/12/1968,444,5,155,0
+1434,Kelly's Heroes,23/06/1970,444,5,146,0
+1436,The Outlaw Josey Wales,30/06/1976,10,1,135,0
+1437,Heartbreak Ridge,05/12/1986,10,5,130,0
+1438,The Dead Pool,13/07/1988,259,9,91,0
+1439,Space Cowboys,01/08/2000,10,9,130,0
+1440,Gran Torino,12/12/2008,10,2,116,0
+1441,Invictus,11/12/2009,10,22,133,0
+1442,American Sniper,11/11/2014,10,19,132,1
+1443,Sully,02/09/2016,10,19,96,0
+1444,J. Edgar,03/11/2011,10,19,137,0
+1445,Changeling,24/10/2008,10,19,141,0
+1446,Blade: Trinity,08/12/2004,445,4,113,0
+1447,U.S. Marshals,06/03/1998,77,9,131,0
+1448,Drop Zone,09/12/1994,236,4,101,0
+1449,Demolition Man,08/10/1993,446,4,115,0
+1450,Passenger 57,06/11/1992,447,4,84,0
+1451,The Princess Bride,25/09/1987,217,12,98,0
+1452,The Long Riders,16/05/1980,250,1,99,0
+1453,The Wild Bunch,18/06/1969,448,1,143,0
+1454,American History X,30/10/1998,449,2,119,0
+1455,Convoy,28/06/1978,448,4,112,0
+1456,Cross of Iron,28/01/1977,448,5,133,0
+1457,The Getaway,13/12/1972,448,14,122,0
+1458,Straw Dogs,29/12/1971,448,9,117,0
+1459,Judgment at Nuremberg,19/12/1961,316,2,179,2
+1460,The Great Escape,20/06/1963,331,5,172,0
+1461,Zulu,22/01/1964,450,13,139,0
+1462,Lucky Number Slevin,24/02/2006,451,14,110,0
+1463,Star Trek Beyond,07/07/2016,142,3,122,0
+1464,Star Trek Into Darkness,23/04/2013,44,3,133,0
+1465,Star Trek,07/04/2009,44,3,127,1
+1466,RoboCop,17/07/1987,72,3,101,0
+1467,RoboCop,12/02/2014,452,3,118,0
+1468,Clerks,19/10/1994,453,7,92,0
+1469,Mallrats,20/10/1995,453,7,94,0
+1470,Chasing Amy,04/04/1997,453,27,113,0
+1471,Dogma,21/05/1999,453,7,128,0
+1472,Bronson,17/10/2008,454,14,92,0
+1473,Drive,20/05/2011,454,14,100,0
+1474,Only God Forgives,22/05/2013,454,9,90,0
